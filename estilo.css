@@ -6,7 +6,7 @@ body{
 
 #menu-nav{
     border:1px solid transparent;
-    width:265px;
+    width:260px;
     float:right ;
     margin-top: 12px;
     margin-right: 25px;
@@ -16,7 +16,7 @@ body{
     display: inline;
     border:1px solid transparent;
     cursor: pointer;
-    margin-left: 15px;
+    margin-left: 10px;
     color: #fff;
 }
 
