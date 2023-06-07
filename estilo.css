@@ -36,7 +36,12 @@ body{
     margin-top: 6px;
     margin-right: 15px;
     float: right;
+    cursor: pointer;
 
+}
+
+#sand:hover{
+    color:aqua
 }
 @media screen and (max-width: 600px) {
 
