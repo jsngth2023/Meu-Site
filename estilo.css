@@ -3,3 +3,7 @@ h1{
     font-family: arial;
 
 }
+
+#menu-nav li{
+    display: inline;
+}
